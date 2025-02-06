@@ -46,5 +46,5 @@
 
   ## Link to Video Walk-through
   https://app.screencastify.com/v2/manage/videos/uk8XERcUddRdKdo0kzVR
-  
+  https://app.screencastify.com/v2/manage/videos/S1uTet0sUqHUpGDHJjzW (Part 2)
 
